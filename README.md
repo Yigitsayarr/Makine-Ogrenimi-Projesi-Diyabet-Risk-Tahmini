@@ -1,4 +1,4 @@
-# Makine-renimi-Projesi-Diyabet-Risk-Tahmini
+# Makine-Öğrenimi-Projesi-Diyabet-Risk-Tahmini
 1.Bu proje kapsamında, veri analizi ve makine öğrenimi tekniklerini kullanarak diyabet riskini tahmin etmeyi amaçladım. İşte bu süreçte gerçekleştirdiğim adımlar:
 
 2.Kütüphanelerin İçeri Aktarılması: Projemize gerekli kütüphaneleri içeri aktardık.
